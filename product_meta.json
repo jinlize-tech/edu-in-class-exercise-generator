@@ -1,0 +1,24 @@
+{
+  "number": 34,
+  "product_id": "JLZ-EDU-SK-028",
+  "chinese_name": "课堂即时练习",
+  "english_name": "In Class Exercise Generator",
+  "repository_name": "edu-in-class-exercise-generator",
+  "product_type": "Skill",
+  "category": "03 教学教研中心",
+  "version": "1.0.0",
+  "status": "PACKAGE_READY",
+  "workbuddy_validation": "NOT_VERIFIED",
+  "license": "Apache-2.0",
+  "baseline_tag": "education-product-baseline-v1.0.0",
+  "package_path": "dist/edu-in-class-exercise-generator-v1.0.0.zip",
+  "calculator": false,
+  "core_input": "课次目标、已讲知识点、课堂剩余时间、题型和即时反馈要求",
+  "main_output": "即时练习题组、答案、讲解提示、难度分布和快速评价表",
+  "package_entries": [
+    "edu-in-class-exercise-generator/SKILL.md",
+    "edu-in-class-exercise-generator/references/DOMAIN_GUIDE.md",
+    "edu-in-class-exercise-generator/references/EXAMPLES.md",
+    "edu-in-class-exercise-generator/templates/OUTPUT_TEMPLATE.md"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "product_id": "JLZ-EDU-SK-028",
+  "repository_name": "edu-in-class-exercise-generator",
+  "product_type": "Skill",
+  "version": "1.0.0",
+  "package_path": "dist/edu-in-class-exercise-generator-v1.0.0.zip",
+  "sha256": "63178A1CC334FBFA878DA7E0B1ABCB9AF273E71689FDADF62EA006821AFC1C91",
+  "bytes": 4870,
+  "entries": [
+    "edu-in-class-exercise-generator/SKILL.md",
+    "edu-in-class-exercise-generator/references/DOMAIN_GUIDE.md",
+    "edu-in-class-exercise-generator/references/EXAMPLES.md",
+    "edu-in-class-exercise-generator/templates/OUTPUT_TEMPLATE.md"
+  ],
+  "built_at": "2026-11-06T22:14:38.2616545+08:00",
+  "status": "PACKAGE_READY",
+  "workbuddy_validation": "NOT_VERIFIED"
+}
