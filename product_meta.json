@@ -6,19 +6,37 @@
   "repository_name": "edu-in-class-exercise-generator",
   "product_type": "Skill",
   "category": "03 教学教研中心",
-  "version": "1.0.0",
-  "status": "PACKAGE_READY",
-  "workbuddy_validation": "NOT_VERIFIED",
+  "version": "1.0.1",
+  "previous_version": "1.0.0",
+  "g5_status": "G5_STRENGTHENED",
+  "status": "G9_PRE_RELEASE_ACCEPTED",
+  "package_state": "GITHUB_PACKAGE_PRE_RELEASE_READY",
+  "runtime_status": "NOT_RUNTIME_VERIFIED",
+  "workbuddy_validation": "WORKBUDDY_VALIDATION_NOT_IN_SCOPE",
   "license": "Apache-2.0",
   "baseline_tag": "education-product-baseline-v1.0.0",
-  "package_path": "dist/edu-in-class-exercise-generator-v1.0.0.zip",
+  "baseline_commit": "6036327d7d56c60184ca133f119b26d4d37973d3",
+  "package_path": "dist/edu-in-class-exercise-generator-v1.0.1.zip",
+  "previous_package_path": "dist/edu-in-class-exercise-generator-v1.0.0.zip",
+  "previous_package_sha256": "63178A1CC334FBFA878DA7E0B1ABCB9AF273E71689FDADF62EA006821AFC1C91",
   "calculator": false,
   "core_input": "课次目标、已讲知识点、课堂剩余时间、题型和即时反馈要求",
   "main_output": "即时练习题组、答案、讲解提示、难度分布和快速评价表",
+  "main_output_fields": [
+    "即时练习题组",
+    "答案",
+    "讲解提示",
+    "难度分布和快速评价表"
+  ],
   "package_entries": [
     "edu-in-class-exercise-generator/SKILL.md",
     "edu-in-class-exercise-generator/references/DOMAIN_GUIDE.md",
     "edu-in-class-exercise-generator/references/EXAMPLES.md",
-    "edu-in-class-exercise-generator/templates/OUTPUT_TEMPLATE.md"
+    "edu-in-class-exercise-generator/templates/OUTPUT_TEMPLATE.md",
+    "edu-in-class-exercise-generator/README.md",
+    "edu-in-class-exercise-generator/USAGE.md",
+    "edu-in-class-exercise-generator/LICENSE",
+    "edu-in-class-exercise-generator/THIRD_PARTY_NOTICES.md",
+    "edu-in-class-exercise-generator/scripts/validate_input.js"
   ]
 }
